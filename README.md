@@ -23,7 +23,7 @@ Check it this direcetories exist, If not create this.
 #!/bin/bash
 
 cd /home/administrator/tmp_dump/source
-git clone https://github.com/ankit16-19/placement-website-IIIT.git
+git clone https://github.com/dj999dash/placement-website-IIIT.git
 sudo cp -R  /home/administrator/tmp_dump/source/*/* /var/www/html/
 rm -rf /home/administrator/tmp_dump/source/*
 ```
