@@ -6,6 +6,13 @@
 3. push changes to this repository
 4. SSH to server and run script.
 
+## To run localy
+    
+```bash
+     npm install -g http-server
+     http-server -p 8080
+```
+
 ## run script
 ```bash
 1. SSH to server (IP: 14.139.198.171)
