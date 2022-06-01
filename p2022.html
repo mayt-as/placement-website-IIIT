@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <title>
-      Placement Report 2018, IIIT Bhubaneswar : Training and Placement Cell
+      Placement Report 2022, IIIT Bhubaneswar : Training and Placement Cell
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="css/bootstrap.min.css" rel="stylesheet" />
@@ -151,8 +151,13 @@
             <div class="col-lg-12">
               <ul class="breadcrumb">
                 <li>
-                  <a href="Branchwise2018.html">Branchwise placement 2018</a>
+                  <a href="index.html"><i class="fa fa-home"></i></a
+                  ><i class="icon-angle-right"></i>
                 </li>
+                <li>
+                  <a href="#">PLACEMENTS</a><i class="icon-angle-right"></i>
+                </li>
+                <li class="active">PLACEMENT REPORT 2022</li>
               </ul>
             </div>
           </div>
@@ -163,33 +168,23 @@
       <br />
       <div class="container">
         <center>
-          <h2>Recruiter wise placement 2018</h2>
+          <h2>Placement 2022</h2>
         </center>
       </div>
-      <br /><br />
-      <!-- <h1 ng-repeat="x in records">{{x}}</h1> -->
       <div class="container">
         <div class="row">
           <div class="col-sm-6 col-md-4" ng-repeat="x in records">
             <div class="thumbnail" ng-click="showOverlay(x)">
-              <img src="{{x.link}}" alt="..." />
+              <img src="{{x.link||'/img/iiit-logo-large.png'}}" alt="..." />
               <div class="caption">
-                <h3>{{x.name}}</h3>
-                <p>No. of student selected : {{x.recruitments}}</p>
-                <p>CTC offered : {{x.ctc}} lacs</p>
+                <h3>{{x["Company Name"]}}</h3>
+                <p>No. of student selected : {{x["Total"]}}</p>
+                <p>CTC offered : {{x["CTC"]}} lacs</p>
               </div>
             </div>
           </div>
         </div>
       </div>
-
-      <!-- <div class="overlay" ng-if="overlayVisible">
-            <div class="jumbotron">
-                <h1>Hello, world!</h1>
-                <p>...</p>
-                <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
-            </div>
-        </div> -->
 
       <footer>
         <div class="container">
@@ -211,17 +206,28 @@
             <div class="col-lg-3">
               <div class="widget">
                 <h5 class="widgetheading">Quick Links</h5>
-<ul class="link-list">
-								<li><a href="info/JAF_2020.doc">Click Here - Download JAF for Recruiters</a></li>
-								<li><a href="info/ib2020.pdf">Information Brochure 2020 Batch</a></li>
-								<li><a href="p2022.html">Placement Report 2022 Batch</a></li>
-								<li><a href="p2021.html">Placement Report 2021 Batch</a></li>
-								<li><a href="p2020.html">Placement Report 2020 Batch</a></li>
-								<li><a href="p2019.html">Placement Report 2019 Batch</a></li>
-								<li><a href="p2018.html">Placement Report 2018 Batch</a></li>
-								<li><a href="gallery.html">Gallery</a></li>
-								<li><a href="contact.html">Contact Us</a></li>
-							</ul>
+                <ul class="link-list">
+                  <li>
+                    <a href="info/JAF_2020.doc"
+                      >Click Here - Download JAF for Recruiters</a
+                    >
+                  </li>
+                  <li>
+                    <a href="info/ib2020.pdf"
+                      >Information Brochure 2020 Batch</a
+                    >
+                  </li>
+                  <li><a href="p2022.html">Placement Report 2022 Batch</a></li>
+                  <li><a href="p2021.html">Placement Report 2021 Batch</a></li>
+                  <li><a href="p2020.html">Placement Report 2020 Batch</a></li>
+                  <li><a href="p2019.html">Placement Report 2019 Batch</a></li>
+                  <li><a href="p2018.html">Placement Report 2018 Batch</a></li>
+                  <li><a href="p2017.html">Placement Report 2017 Batch</a></li>
+                  <li><a href="p2016.html">Placement Report 2016 Batch</a></li>
+
+                  <li><a href="gallery.html">Gallery</a></li>
+                  <li><a href="contact.html">Contact Us</a></li>
+                </ul>
               </div>
             </div>
             <div class="col-lg-3">
@@ -352,10 +358,10 @@
       app.controller("myCtrl", function ($scope, $http) {
         $http({
           method: "GET",
-          url: "placement_stats.json",
+          url: "/placement_records/placement_stats_2022.json",
         }).then(
           function (response) {
-            $scope.records = response.data.data;
+            $scope.records = response.data;
             // console.log(response.data.data);
           },
           function (error) {

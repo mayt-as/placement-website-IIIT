@@ -1,0 +1,108 @@
+[
+  {
+    "Company Name": "TEK SYSTEM",
+    "Total": "2",
+    "CTC": "6"
+  },
+  {
+    "Company Name": "DELL",
+    "Total": "21",
+    "CTC": "8"
+  },
+  {
+    "Company Name": "APTUS DATALABS",
+    "Total": "10",
+    "CTC": "5.1"
+  },
+  {
+    "Company Name": "ODESSA",
+    "Total": "2",
+    "CTC": "5.5"
+  },
+  {
+    "Company Name": "GyanSys",
+    "Total": "1",
+    "CTC": "4.5"
+  },
+  {
+    "Company Name": "Mindtree",
+    "Total": "30",
+    "CTC": "3.5"
+  },
+  {
+    "Company Name": "Infosys Category 1",
+    "Total": "1",
+    "CTC ": "8"
+  },
+  {
+    "Company Name": "Infosys Category 2",
+    "Total": "19",
+    "CTC": "5"
+  },
+  {
+    "Company Name": "Infosys Category 3",
+    "Total": "88",
+    "CTC": "3.6"
+  },
+  {
+    "Company Name": "Ernst & Young",
+    "Total": "14",
+    "CTC": "3.8"
+  },
+  {
+    "Company Name": "HSBC",
+    "Total": "9",
+    "CTC": "7"
+  },
+  {
+    "Company Name": "Incture",
+    "Total": "8",
+    "CTC": "6"
+  },
+  {
+    "Company Name": "IBM",
+    "Total": "36",
+    "CTC": "3.6"
+  },
+
+  {
+    "Company Name": "Utopia Global",
+    "Total": "1",
+    "CTC": "8-10"
+  },
+  {
+    "Company Name": "Akash Institute",
+    "Total": "0",
+    "CTC": "6-7"
+  },
+  {
+    "Company Name": "Mindfire Solutions",
+    "Total": "6",
+    "CTC": "4.5"
+  },
+  {
+    "Company Name": "TCS Digital",
+    "Total": "1",
+    "CTC": "8"
+  },
+  {
+    "Company Name": "TCS Ninja",
+    "Total": "15",
+    "CTC": "3.5"
+  },
+  {
+    "Company Name": "Hitachi Consulting",
+    "Total": "1",
+    "CTC": "5.5"
+  },
+  {
+    "Company Name": "Wipro",
+    "Total": "2",
+    "CTC": "3.5"
+  },
+  {
+    "Company Name": "Drubuss",
+    "Total": "3",
+    "CTC": "3.5"
+  }
+]
