@@ -116,7 +116,8 @@
     "EEE": 0,
     "IT": 3,
     "CE": 2,
-    "Total": 5
+    "Total": 5,
+    "link": "/img/company/maximi.png"
   },
   {
     "Sl No.": 11,
@@ -127,7 +128,9 @@
     "EEE": 0,
     "IT": 1,
     "CE": 2,
-    "Total": 6
+    "Total": 6,
+    "link": "/img/company/kreditbee.png"
+
   },
   {
     "Sl No.": 12,
@@ -138,7 +141,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 3,
-    "Total": 8
+    "Total": 8,
+    "link":"/img/company/.png"
   },
   {
     "Sl No.": 13,
@@ -149,7 +153,8 @@
     "EEE": 1,
     "IT": 0,
     "CE": 0,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/kpit.png"
   },
   {
     "Sl No.": 14,
@@ -160,7 +165,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 1,
-    "Total": 3
+    "Total": 3,
+    "link": "/img/company/forcepoint.png"
   },
   {
     "Sl No.": 15,
@@ -171,7 +177,8 @@
     "EEE": 0,
     "IT": 2,
     "CE": 1,
-    "Total": 3
+    "Total": 3,
+    "link": "/img/company/optum.png"
   },
   {
     "Sl No.": 16,
@@ -182,7 +189,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 0,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/cognizant.png"
   },
   {
     "Sl No.": 17,
@@ -193,7 +201,8 @@
     "EEE": 1,
     "IT": 4,
     "CE": 1,
-    "Total": 8
+    "Total": 8,
+    "link": "/img/company/accenture.png"
   },
   {
     "Sl No.": 18,
@@ -204,7 +213,8 @@
     "EEE": 0,
     "IT": 4,
     "CE": 4,
-    "Total": 14
+    "Total": 14,
+    "link": "/img/company/kreditbee.png"
   },
   {
     "Sl No.": 19,
@@ -215,7 +225,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 0,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/informatica.png"
   },
   {
     "Sl No.": 20,
@@ -226,7 +237,8 @@
     "EEE": 5,
     "IT": 6,
     "CE": 2,
-    "Total": 21
+    "Total": 21,
+    "link": "/img/company/quantiphi.png"
   },
   {
     "Sl No.": 21,
@@ -237,7 +249,8 @@
     "EEE": 3,
     "IT": 5,
     "CE": 8,
-    "Total": 31
+    "Total": 31,
+    "link": "/img/company/tiger.png"
   },
   {
     "Sl No.": 22,
@@ -248,7 +261,8 @@
     "EEE": 1,
     "IT": 0,
     "CE": 0,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/kreditbee.png"
   },
   {
     "Sl No.": 23,
@@ -259,7 +273,8 @@
     "EEE": 0,
     "IT": 5,
     "CE": 3,
-    "Total": 13
+    "Total": 13,
+    "link": "/img/company/dell.png"
   },
   {
     "Sl No.": 24,
@@ -270,7 +285,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 0,
-    "Total": 3
+    "Total": 3,
+    "link": "/img/company/spikewell.png"
   },
   {
     "Sl No.": 25,
@@ -281,7 +297,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 4,
-    "Total": 9
+    "Total": 9,
+    "link": "/img/company/subex.png"
   },
   {
     "Sl No.": 26,
@@ -292,7 +309,8 @@
     "EEE": 2,
     "IT": 2,
     "CE": 2,
-    "Total": 9
+    "Total": 9,
+    "link": "/img/company/lti.png"
   },
   {
     "Sl No.": 27,
@@ -303,7 +321,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 0,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/infosys.png"
   },
   {
     "Sl No.": 28,
@@ -314,7 +333,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 1,
-    "Total": 5
+    "Total": 5,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 29,
@@ -325,7 +345,8 @@
     "EEE": 0,
     "IT": 2,
     "CE": 1,
-    "Total": 4
+    "Total": 4,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 30,
@@ -336,7 +357,8 @@
     "EEE": 2,
     "IT": 7,
     "CE": 10,
-    "Total": 43
+    "Total": 43,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 31,
@@ -347,7 +369,8 @@
     "EEE": 1,
     "IT": 1,
     "CE": 1,
-    "Total": 4
+    "Total": 4,
+    "link": "/img/company/ibm.png"
   },
   {
     "Sl No.": 32,
@@ -358,7 +381,8 @@
     "EEE": 11,
     "IT": 12,
     "CE": 10,
-    "Total": 58
+    "Total": 58,
+    "link": "/img/company/capgemini.png"
   },
   {
     "Sl No.": 33,
@@ -369,7 +393,8 @@
     "EEE": 0,
     "IT": 2,
     "CE": 1,
-    "Total": 5
+    "Total": 5,
+    "link": "/img/company/incture.png"
   },
   {
     "Sl No.": 34,
@@ -380,7 +405,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 0,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 35,
@@ -391,7 +417,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 0,
-    "Total": 2
+    "Total": 2,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 36,
@@ -402,7 +429,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 1,
-    "Total": 3
+    "Total": 3,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 37,
@@ -413,7 +441,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 1,
-    "Total": 7
+    "Total": 7,
+    "link": "/img/company/comviva.png"
   },
   {
     "Sl No.": 38,
@@ -424,7 +453,8 @@
     "EEE": 7,
     "IT": 5,
     "CE": 3,
-    "Total": 24
+    "Total": 24,
+    "link": "/img/company/lti.png"
   },
   {
     "Sl No.": 39,
@@ -435,7 +465,8 @@
     "EEE": 1,
     "IT": 2,
     "CE": 1,
-    "Total": 7
+    "Total": 7,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 40,
@@ -446,7 +477,8 @@
     "EEE": 4,
     "IT": 3,
     "CE": 1,
-    "Total": 13
+    "Total": 13,
+    "link": "/img/company/cognizant.png"
   },
   {
     "Sl No.": 41,
@@ -457,7 +489,8 @@
     "EEE": 2,
     "IT": 0,
     "CE": 0,
-    "Total": 3
+    "Total": 3,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 42,
@@ -468,7 +501,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 0,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 43,
@@ -479,7 +513,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 1,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 44,
@@ -490,7 +525,8 @@
     "EEE": 0,
     "IT": 2,
     "CE": 0,
-    "Total": 4
+    "Total": 4,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 45,
@@ -501,7 +537,8 @@
     "EEE": 3,
     "IT": 4,
     "CE": 5,
-    "Total": 17
+    "Total": 17,
+    "link": "/img/company/lti.png"
   },
   {
     "Sl No.": 46,
@@ -512,7 +549,8 @@
     "EEE": 2,
     "IT": 2,
     "CE": 2,
-    "Total": 9
+    "Total": 9,
+    "link": "/img/company/infosys.png"
   },
   {
     "Sl No.": 47,
@@ -523,7 +561,8 @@
     "EEE": 0,
     "IT": 2,
     "CE": 0,
-    "Total": 8
+    "Total": 8,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 48,
@@ -534,7 +573,8 @@
     "EEE": 0,
     "IT": 3,
     "CE": 1,
-    "Total": 4
+    "Total": 4,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 49,
@@ -545,7 +585,8 @@
     "EEE": 1,
     "IT": 0,
     "CE": 0,
-    "Total": 4
+    "Total": 4,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 50,
@@ -556,7 +597,8 @@
     "EEE": 9,
     "IT": 5,
     "CE": 7,
-    "Total": 38
+    "Total": 38,
+    "link": "/img/company/ibm.png"
   },
   {
     "Sl No.": 51,
@@ -567,7 +609,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 0,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/titc.png"
   },
   {
     "Sl No.": 52,
@@ -578,7 +621,8 @@
     "EEE": 0,
     "IT": 5,
     "CE": 7,
-    "Total": 15
+    "Total": 15,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 53,
@@ -589,7 +633,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 0,
-    "Total": 2
+    "Total": 2,
+    "link": "/img/company/.png"
   },
   {
     "Sl No.": 54,
@@ -600,7 +645,8 @@
     "EEE": 2,
     "IT": 0,
     "CE": 0,
-    "Total": 2
+    "Total": 2,
+    "link":"/img/company/.png"
   },
   {
     "Sl No.": 55,
@@ -611,7 +657,8 @@
     "EEE": 5,
     "IT": 0,
     "CE": 1,
-    "Total": 13
+    "Total": 13,
+    "link": "/img/company/wipro.png"
   },
   {
     "Sl No.": 56,
@@ -622,7 +669,8 @@
     "EEE": 3,
     "IT": 1,
     "CE": 0,
-    "Total": 5
+    "Total": 5,
+    "link":"/img/company/infosys.png"
   },
   {
     "Sl No.": 57,
@@ -633,17 +681,7 @@
     "EEE": 0,
     "IT": 1,
     "CE": 1,
-    "Total": 3
-  },
-  {
-    "Sl No.": null,
-    "Company Name": null,
-    "CTC": "Total",
-    "CSE": 114,
-    "ETC": 92,
-    "EEE": 67,
-    "IT": 113,
-    "CE": 101,
-    "Total": null
+    "Total": 3,
+    "link":"/img/company/pcon.png"
   }
 ]
