@@ -4,7 +4,7 @@
     "Company Name": "TEK System",
     "CTC": 6,
     "Total": 2,
-    "link": " /img/company/tek.jpg"
+    "link": " /img/company/tek.png"
   },
   {
     "id": "2dcdce3b-5170-4f43-955d-5f46c0297069",
@@ -18,14 +18,14 @@
     "Company Name": "APTUS DATA LAB",
     "CTC": 5.1,
     "Total": 10,
-    "link": "/img/company/aptus.jpg "
+    "link": "/img/company/aptus.png "
   },
   {
     "id": "a72ab166-83bd-4413-af2c-494702285c67",
     "Company Name": "ODESSA",
     "CTC": 5.5,
     "Total": 2,
-    "link": "/img/company/odessa.jpg"
+    "link": "/img/company/odessa.png"
   },
   {
     "id": "ac30e765-cc53-4e5b-9a41-1e95b07a2507",
@@ -46,14 +46,14 @@
     "Company Name": "INFOSYS",
     "CTC": 3.6,
     "Total": 88,
-    "link": "/img/company/infosys.jpg "
+    "link": "/img/company/infosys.png "
   },
   {
     "id": "d1308fea-85b4-4c8b-9a62-6c3d290bd7a2",
     "Company Name": "ERNST & YOUNG",
     "CTC": 3.8,
     "Total": 14,
-    "link": "/img/company/ernst.jpg "
+    "link": "/img/company/ernst.png "
   },
   {
     "id": "bfe9d89e-d1a9-4cd7-aef3-8f176c4803e3",
@@ -81,28 +81,28 @@
     "Company Name": "QUANTIPHI",
     "CTC": "10-12",
     "Total": 3,
-    "link": "img/company/quantiphi.jpg"
+    "link": "img/company/quantiphi.png"
   },
   {
     "id": "111f898b-88e1-4d86-83af-08c5e5d39f1b",
     "Company Name": "UTOPIA GLOBAL",
     "CTC": "10-12",
     "Total": 4,
-    "link": "img/company/Utopia-Labs.jpg"
+    "link": "img/company/Utopia-Labs.png"
   },
   {
     "id": "be771e1e-9bb1-4f8e-bf05-4e0f0c5febea",
     "Company Name": "AKASH INSTITUTE",
     "CTC": " 6-7",
     "Total": 0,
-    "link": "img/company/aakash.jpg"
+    "link": "img/company/aakash.png"
   },
   {
     "id": "4ca60ee3-2b43-4ef2-8b37-6a2d8ebedec6",
     "Company Name": "HITACHI CONSULTING",
     "CTC": 5,
     "Total": 1,
-    "link": "/img/company/hitachi.jpg"
+    "link": "/img/company/hitachi.png"
   },
   {
     "id": "064669b8-dc92-46b2-9a00-a18566feb2a0",
@@ -116,7 +116,7 @@
     "Company Name": "MINDFIRE",
     "CTC": "3.64 & 4.37",
     "Total": 6,
-    "link": "/img/company/mindfire.jpg"
+    "link": "/img/company/mindfire.png"
   },
   {
     "id": "40d5b411-ce11-4581-9840-0957ff7fa99e",

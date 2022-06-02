@@ -2,107 +2,128 @@
   {
     "Company Name": "TEK SYSTEM",
     "Total": "2",
-    "CTC": "6"
+    "CTC": "6",
+    "link": "/img/company/tek.png"
   },
   {
     "Company Name": "DELL",
     "Total": "21",
-    "CTC": "8"
+    "CTC": "8",
+    "link": "/img/company/dell.png"
   },
   {
     "Company Name": "APTUS DATALABS",
     "Total": "10",
-    "CTC": "5.1"
+    "CTC": "5.1",
+    "link": "/img/company/aptus.png"
   },
   {
     "Company Name": "ODESSA",
     "Total": "2",
-    "CTC": "5.5"
+    "CTC": "5.5",
+    "link": "/img/company/odessa.png"
   },
   {
     "Company Name": "GyanSys",
     "Total": "1",
-    "CTC": "4.5"
+    "CTC": "4.5",
+    "link": "/img/company/gyansys.png"
   },
   {
     "Company Name": "Mindtree",
     "Total": "30",
-    "CTC": "3.5"
+    "CTC": "3.5",
+    "link": "/img/company/mindtree.png"
   },
   {
     "Company Name": "Infosys Category 1",
     "Total": "1",
-    "CTC ": "8"
+    "CTC ": "8",
+    "link": "/img/company/infosys.png"
   },
   {
     "Company Name": "Infosys Category 2",
     "Total": "19",
-    "CTC": "5"
+    "CTC": "5",
+    "link": "/img/company/infosys.png"
   },
   {
     "Company Name": "Infosys Category 3",
     "Total": "88",
-    "CTC": "3.6"
+    "CTC": "3.6",
+    "link": "/img/company/infosys.png"
   },
   {
     "Company Name": "Ernst & Young",
     "Total": "14",
-    "CTC": "3.8"
+    "CTC": "3.8",
+    "link": "/img/company/EY.png"
   },
   {
     "Company Name": "HSBC",
     "Total": "9",
-    "CTC": "7"
+    "CTC": "7",
+    "link": "/img/company/hsbc.png"
   },
   {
     "Company Name": "Incture",
     "Total": "8",
-    "CTC": "6"
+    "CTC": "6",
+    "link": "/img/company/incture.png"
   },
   {
     "Company Name": "IBM",
     "Total": "36",
-    "CTC": "3.6"
+    "CTC": "3.6",
+    "link": "/img/company/ibm.png"
   },
 
   {
     "Company Name": "Utopia Global",
     "Total": "1",
-    "CTC": "8-10"
+    "CTC": "8-10",
+    "link": "/img/company/utopia.png"
   },
   {
     "Company Name": "Akash Institute",
     "Total": "0",
-    "CTC": "6-7"
+    "CTC": "6-7",
+    "link": "/img/company/aakash.png"
   },
   {
     "Company Name": "Mindfire Solutions",
     "Total": "6",
-    "CTC": "4.5"
+    "CTC": "4.5",
+    "link": "/img/company/mindfire-solutions.png"
   },
   {
     "Company Name": "TCS Digital",
     "Total": "1",
-    "CTC": "8"
+    "CTC": "8",
+    "link": "/img/company/tcs.png"
   },
   {
     "Company Name": "TCS Ninja",
     "Total": "15",
-    "CTC": "3.5"
+    "CTC": "3.5",
+    "link": "/img/company/tcs.png"
   },
   {
     "Company Name": "Hitachi Consulting",
     "Total": "1",
-    "CTC": "5.5"
+    "CTC": "5.5",
+    "link": "/img/company/hitachi.png"
   },
   {
     "Company Name": "Wipro",
     "Total": "2",
-    "CTC": "3.5"
+    "CTC": "3.5",
+    "link": "/img/company/wipro.png"
   },
   {
     "Company Name": "Drubuss",
     "Total": "3",
-    "CTC": "3.5"
+    "CTC": "3.5",
+    "link": "/img/company/drubus.png"
   }
 ]

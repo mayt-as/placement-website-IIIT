@@ -9,7 +9,7 @@
     "IT": 1,
     "CE": 1,
     "Total": 3,
-    "link":"/img/company/amazon.png"
+    "link": "/img/company/amazon.png"
   },
   {
     "Sl No.": 2,
@@ -21,7 +21,7 @@
     "IT": 0,
     "CE": 1,
     "Total": 1,
-    "link":"/img/company/browserstack.jpg"
+    "link": "/img/company/browserstack.png"
   },
   {
     "Sl No.": 3,
@@ -33,7 +33,7 @@
     "IT": 0,
     "CE": 0,
     "Total": 4,
-    "link":"/img/company/turtlemint-1.png"
+    "link": "/img/company/turtlemint.png"
   },
   {
     "Sl No.": 4,
@@ -45,7 +45,7 @@
     "IT": 0,
     "CE": 0,
     "Total": 1,
-    "link":"/img/company/juspay.webp"
+    "link": "/img/company/juspay.png"
   },
   {
     "Sl No.": 5,
@@ -56,7 +56,8 @@
     "EEE": 0,
     "IT": 2,
     "CE": 1,
-    "Total": 6
+    "Total": 6,
+    "link": "/img/company/cognizant.png"
   },
   {
     "Sl No.": 6,
@@ -67,7 +68,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 1,
-    "Total": 11
+    "Total": 11,
+    "link": "/img/company/quantiphi.png"
   },
   {
     "Sl No.": 7,
@@ -78,7 +80,8 @@
     "EEE": 0,
     "IT": 2,
     "CE": 3,
-    "Total": 12
+    "Total": 12,
+    "link": "/img/company/tiger.png"
   },
   {
     "Sl No.": 8,
@@ -89,7 +92,8 @@
     "EEE": 0,
     "IT": 2,
     "CE": 1,
-    "Total": 4
+    "Total": 4,
+    "link": "img/company/informatica.png"
   },
   {
     "Sl No.": 9,
@@ -100,7 +104,8 @@
     "EEE": 3,
     "IT": 5,
     "CE": 9,
-    "Total": 30
+    "Total": 30,
+    "link": "/img/company/dell.png"
   },
   {
     "Sl No.": 10,
@@ -111,7 +116,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 2,
-    "Total": 2
+    "Total": 2,
+    "link": "/img/company/spikewell.png"
   },
   {
     "Sl No.": 11,
@@ -122,7 +128,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 2,
-    "Total": 4
+    "Total": 4,
+    "link": "/img/company/tcs.png"
   },
   {
     "Sl No.": 12,
@@ -133,7 +140,8 @@
     "EEE": 1,
     "IT": 4,
     "CE": 2,
-    "Total": 9
+    "Total": 9,
+    "link": "/img/company/lti.png"
   },
   {
     "Sl No.": 13,
@@ -155,7 +163,8 @@
     "EEE": 1,
     "IT": 1,
     "CE": 0,
-    "Total": 3
+    "Total": 3,
+    "link": "/img/company/baker-huges.png"
   },
   {
     "Sl No.": 15,
@@ -166,18 +175,20 @@
     "EEE": 0,
     "IT": 2,
     "CE": 0,
-    "Total": 2
+    "Total": 2,
+    "link": "/img/company/hashedin.png"
   },
   {
     "Sl No.": 16,
-    "Company Name": "Deloitte&nbsp;",
+    "Company Name": "Deloitte",
     "CTC": "7.6 LPA",
     "CSE": 2,
     "ETC": 6,
     "EEE": 2,
     "IT": 1,
     "CE": 4,
-    "Total": 15
+    "Total": 15,
+    "link": "/img/company/deloitte.png"
   },
   {
     "Sl No.": 17,
@@ -188,7 +199,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 1,
-    "Total": 3
+    "Total": 3,
+    "link": "/img/company/coviam.png"
   },
   {
     "Sl No.": 18,
@@ -199,7 +211,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 0,
-    "Total": 4
+    "Total": 4,
+    "link": "/img/company/incture.png"
   },
   {
     "Sl No.": 19,
@@ -210,7 +223,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 0,
-    "Total": 3
+    "Total": 3,
+    "link": "/img/company/subex.png"
   },
   {
     "Sl No.": 20,
@@ -221,7 +235,8 @@
     "EEE": 0,
     "IT": 2,
     "CE": 2,
-    "Total": 7
+    "Total": 7,
+    "link": "/img/company/lti.png"
   },
   {
     "Sl No.": 21,
@@ -232,7 +247,8 @@
     "EEE": 1,
     "IT": 0,
     "CE": 0,
-    "Total": 2
+    "Total": 2,
+    "link": "/img/company/synapse.png"
   },
   {
     "Sl No.": 22,
@@ -243,7 +259,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 1,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/milkmantra.png"
   },
   {
     "Sl No.": 23,
@@ -254,7 +271,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 2,
-    "Total": 2
+    "Total": 2,
+    "link": "/img/company/tek.png"
   },
   {
     "Sl No.": 24,
@@ -265,7 +283,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 1,
-    "Total": 2
+    "Total": 2,
+    "link": "/img/company/cartesian.png"
   },
   {
     "Sl No.": 25,
@@ -276,7 +295,8 @@
     "EEE": 1,
     "IT": 1,
     "CE": 0,
-    "Total": 3
+    "Total": 3,
+    "link": "/img/company/sud-life.png"
   },
   {
     "Sl No.": 26,
@@ -287,7 +307,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 0,
-    "Total": 3
+    "Total": 3,
+    "link": "/img/company/kanerika.png"
   },
   {
     "Sl No.": 27,
@@ -298,7 +319,8 @@
     "EEE": 3,
     "IT": 9,
     "CE": 3,
-    "Total": 27
+    "Total": 27,
+    "link": "/img/company/lti.png"
   },
   {
     "Sl No.": 28,
@@ -309,7 +331,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 4,
-    "Total": 5
+    "Total": 5,
+    "link": "/img/company/aptus.png"
   },
   {
     "Sl No.": 29,
@@ -320,7 +343,8 @@
     "EEE": 2,
     "IT": 3,
     "CE": 4,
-    "Total": 22
+    "Total": 22,
+    "link": "/img/company/infosys.png"
   },
   {
     "Sl No.": 30,
@@ -331,7 +355,8 @@
     "EEE": 1,
     "IT": 0,
     "CE": 1,
-    "Total": 2
+    "Total": 2,
+    "link": "/img/company/hexaware.png"
   },
   {
     "Sl No.": 31,
@@ -342,7 +367,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 2,
-    "Total": 7
+    "Total": 7,
+    "link": "/img/company/mindfire.png"
   },
   {
     "Sl No.": 32,
@@ -353,7 +379,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 0,
-    "Total": 4
+    "Total": 4,
+    "link": "/img/company/iserveu.png"
   },
   {
     "Sl No.": 33,
@@ -364,7 +391,8 @@
     "EEE": 1,
     "IT": 0,
     "CE": 0,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/nutri.png"
   },
   {
     "Sl No.": 34,
@@ -375,7 +403,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 0,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/startoon.png"
   },
   {
     "Sl No.": 35,
@@ -386,7 +415,8 @@
     "EEE": 6,
     "IT": 6,
     "CE": 3,
-    "Total": 26
+    "Total": 26,
+    "link": "/img/company/mindtree.png"
   },
   {
     "Sl No.": 36,
@@ -397,7 +427,8 @@
     "EEE": 1,
     "IT": 0,
     "CE": 0,
-    "Total": 7
+    "Total": 7,
+    "link": "/img/company/vvdn.png"
   },
   {
     "Sl No.": 37,
@@ -408,7 +439,8 @@
     "EEE": 0,
     "IT": 1,
     "CE": 1,
-    "Total": 4
+    "Total": 4,
+    "link": "/img/company/Zycus.png"
   },
   {
     "Sl No.": 38,
@@ -430,7 +462,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 0,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/itc.png"
   },
   {
     "Sl No.": 40,
@@ -441,7 +474,8 @@
     "EEE": 7,
     "IT": 4,
     "CE": 5,
-    "Total": 31
+    "Total": 31,
+    "link": "/img/company/infosys.png"
   },
   {
     "Sl No.": 41,
@@ -452,7 +486,8 @@
     "EEE": 11,
     "IT": 11,
     "CE": 5,
-    "Total": 46
+    "Total": 46,
+    "link": "/img/company/tcs.png"
   },
   {
     "Sl No.": 42,
@@ -474,7 +509,8 @@
     "EEE": 0,
     "IT": 0,
     "CE": 0,
-    "Total": 1
+    "Total": 1,
+    "link": "/img/company/wipro.png"
   },
   {
     "Sl No.": 44,
@@ -485,11 +521,12 @@
     "EEE": 0,
     "IT": 2,
     "CE": 0,
-    "Total": 2
+    "Total": 2,
+    "link": "/img/company/hexaware.png"
   },
   {
     "Sl No.": null,
-    "Company Name": null,
+    "Company Name": "TOTAL PLACEMENTS: ",
     "CTC": "Total",
     "CSE": 98,
     "ETC": 63,
