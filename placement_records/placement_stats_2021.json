@@ -152,11 +152,12 @@
     "EEE": 1,
     "IT": 1,
     "CE": 0,
-    "Total": 3
+    "Total": 3,
+    "link": "/img/company/infosys.png"
   },
   {
     "Sl No.": 14,
-    "Company Name": "Baker Huges",
+    "Company Name": "Baker Hughes",
     "CTC": "8 LPA",
     "CSE": 0,
     "ETC": 1,
@@ -164,7 +165,7 @@
     "IT": 1,
     "CE": 0,
     "Total": 3,
-    "link": "/img/company/baker-huges.png"
+    "link": "/img/company/baker-hughes.png"
   },
   {
     "Sl No.": 15,
@@ -260,7 +261,7 @@
     "IT": 0,
     "CE": 1,
     "Total": 1,
-    "link": "/img/company/milkmantra.png"
+    "link": "/img/company/milk-mantra.png"
   },
   {
     "Sl No.": 23,
@@ -392,7 +393,7 @@
     "IT": 0,
     "CE": 0,
     "Total": 1,
-    "link": "/img/company/nutri.png"
+    "link": "/img/company/nutripal.png"
   },
   {
     "Sl No.": 34,
@@ -451,7 +452,8 @@
     "EEE": 1,
     "IT": 1,
     "CE": 0,
-    "Total": 4
+    "Total": 4,
+    "link": "/img/company/iifl.png"
   },
   {
     "Sl No.": 39,
@@ -498,7 +500,8 @@
     "EEE": 2,
     "IT": 2,
     "CE": 0,
-    "Total": 5
+    "Total": 5,
+    "link": "/img/company/alld.png"
   },
   {
     "Sl No.": 43,
