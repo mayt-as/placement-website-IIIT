@@ -9,7 +9,7 @@
     "IT": 1,
     "CE": 1,
     "Total": 2,
-    "link": ""
+    "link": "/img/company/morphle.png"
   },
   {
     "Sl No.": 2,
@@ -61,7 +61,7 @@
   },
   {
     "Sl No.": 6,
-    "Company Name": "UKG (Kronos) ",
+    "Company Name": "UKG (Kronos)",
     "CTC": "14.35 LPA",
     "CSE": 0,
     "ETC": 1,
@@ -134,7 +134,7 @@
   },
   {
     "Sl No.": 12,
-    "Company Name": "Cimpress ",
+    "Company Name": "Cimpress",
     "CTC": "12 LPA",
     "CSE": 5,
     "ETC": 0,
@@ -142,7 +142,7 @@
     "IT": 0,
     "CE": 3,
     "Total": 8,
-    "link":"/img/company/.png"
+    "link": "/img/company/cimpress.png"
   },
   {
     "Sl No.": 13,
@@ -170,7 +170,7 @@
   },
   {
     "Sl No.": 15,
-    "Company Name": "Optum ",
+    "Company Name": "Optum",
     "CTC": "10 LPA",
     "CSE": 0,
     "ETC": 0,
@@ -194,7 +194,7 @@
   },
   {
     "Sl No.": 17,
-    "Company Name": "Accenture ",
+    "Company Name": "Accenture",
     "CTC": "9.9 LPA",
     "CSE": 1,
     "ETC": 1,
@@ -290,7 +290,7 @@
   },
   {
     "Sl No.": 25,
-    "Company Name": "Subex ",
+    "Company Name": "Subex",
     "CTC": "8 LPA",
     "CSE": 5,
     "ETC": 0,
@@ -326,7 +326,7 @@
   },
   {
     "Sl No.": 28,
-    "Company Name": "HashedIn ",
+    "Company Name": "HashedIn",
     "CTC": "8 LPA",
     "CSE": 3,
     "ETC": 0,
@@ -334,11 +334,11 @@
     "IT": 1,
     "CE": 1,
     "Total": 5,
-    "link": "/img/company/.png"
+    "link": "/img/company/jashedin.png"
   },
   {
     "Sl No.": 29,
-    "Company Name": "Lumiq ",
+    "Company Name": "Lumiq",
     "CTC": "8 LPA",
     "CSE": 1,
     "ETC": 0,
@@ -346,7 +346,7 @@
     "IT": 2,
     "CE": 1,
     "Total": 4,
-    "link": "/img/company/.png"
+    "link": "/img/company/lumiq.png"
   },
   {
     "Sl No.": 30,
@@ -358,7 +358,7 @@
     "IT": 7,
     "CE": 10,
     "Total": 43,
-    "link": "/img/company/.png"
+    "link": "/img/company/deloitte.png"
   },
   {
     "Sl No.": 31,
@@ -386,7 +386,7 @@
   },
   {
     "Sl No.": 33,
-    "Company Name": "Incture ",
+    "Company Name": "Incture",
     "CTC": "7 LPA",
     "CSE": 2,
     "ETC": 0,
@@ -398,7 +398,7 @@
   },
   {
     "Sl No.": 34,
-    "Company Name": "Zemoso ",
+    "Company Name": "Zemoso",
     "CTC": "6.89 LPA",
     "CSE": 0,
     "ETC": 0,
@@ -406,7 +406,7 @@
     "IT": 1,
     "CE": 0,
     "Total": 1,
-    "link": "/img/company/.png"
+    "link": "/img/company/zemoso.png"
   },
   {
     "Sl No.": 35,
@@ -418,11 +418,11 @@
     "IT": 1,
     "CE": 0,
     "Total": 2,
-    "link": "/img/company/.png"
+    "link": "/img/company/cgi.png"
   },
   {
     "Sl No.": 36,
-    "Company Name": "Latent View ",
+    "Company Name": "Latent View",
     "CTC": "6.5 LPA",
     "CSE": 0,
     "ETC": 2,
@@ -430,7 +430,7 @@
     "IT": 0,
     "CE": 1,
     "Total": 3,
-    "link": "/img/company/.png"
+    "link": "/img/company/latentview.png"
   },
   {
     "Sl No.": 37,
@@ -458,7 +458,7 @@
   },
   {
     "Sl No.": 39,
-    "Company Name": "Anicca Data ",
+    "Company Name": "Anicca Data",
     "CTC": "6.5 LPA",
     "CSE": 1,
     "ETC": 2,
@@ -466,11 +466,11 @@
     "IT": 2,
     "CE": 1,
     "Total": 7,
-    "link": "/img/company/.png"
+    "link": "/img/company/aniccadata.png"
   },
   {
     "Sl No.": 40,
-    "Company Name": "Cognizant ",
+    "Company Name": "Cognizant",
     "CTC": "6.5 LPA",
     "CSE": 0,
     "ETC": 5,
@@ -490,7 +490,7 @@
     "IT": 0,
     "CE": 0,
     "Total": 3,
-    "link": "/img/company/.png"
+    "link": "/img/company/zensar.png"
   },
   {
     "Sl No.": 42,
@@ -502,7 +502,7 @@
     "IT": 1,
     "CE": 0,
     "Total": 1,
-    "link": "/img/company/.png"
+    "link": "/img/company/virtusa.png"
   },
   {
     "Sl No.": 43,
@@ -514,7 +514,7 @@
     "IT": 0,
     "CE": 1,
     "Total": 1,
-    "link": "/img/company/.png"
+    "link": "/img/company/deltax.png"
   },
   {
     "Sl No.": 44,
@@ -526,7 +526,7 @@
     "IT": 2,
     "CE": 0,
     "Total": 4,
-    "link": "/img/company/.png"
+    "link": "/img/company/tadigital.png"
   },
   {
     "Sl No.": 45,
@@ -562,7 +562,7 @@
     "IT": 2,
     "CE": 0,
     "Total": 8,
-    "link": "/img/company/.png"
+    "link": "/img/company/virtusa.png"
   },
   {
     "Sl No.": 48,
@@ -574,7 +574,7 @@
     "IT": 3,
     "CE": 1,
     "Total": 4,
-    "link": "/img/company/.png"
+    "link": "/img/company/jibe.png"
   },
   {
     "Sl No.": 49,
@@ -586,7 +586,7 @@
     "IT": 0,
     "CE": 0,
     "Total": 4,
-    "link": "/img/company/.png"
+    "link": "/img/company/hexaware.png"
   },
   {
     "Sl No.": 50,
@@ -622,7 +622,7 @@
     "IT": 5,
     "CE": 7,
     "Total": 15,
-    "link": "/img/company/.png"
+    "link": "/img/company/brillio.png"
   },
   {
     "Sl No.": 53,
@@ -634,7 +634,7 @@
     "IT": 1,
     "CE": 0,
     "Total": 2,
-    "link": "/img/company/.png"
+    "link": "/img/company/virtusa.png"
   },
   {
     "Sl No.": 54,
@@ -646,7 +646,7 @@
     "IT": 0,
     "CE": 0,
     "Total": 2,
-    "link":"/img/company/.png"
+    "link": "/img/company/vvdn.png"
   },
   {
     "Sl No.": 55,
